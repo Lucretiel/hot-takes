@@ -1,2 +1,3 @@
 - Tracing GC is almost always unnecessary and designs that require it probably have fundamental architectural problems
 - Functions that are only called once are an anti-pattern
+- Function coloring is Good, Actually
