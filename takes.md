@@ -1,3 +1,4 @@
 - Tracing GC is almost always unnecessary and designs that require it probably have fundamental architectural problems
 - Functions that are only called once are an anti-pattern
 - Function coloring is Good, Actually
+- The hot/cold observable dichotomy is bullshit. *Event streams* may be hot (global) or not, but an observable doesn't do anything but describe what happens when you initiate a subscription.
