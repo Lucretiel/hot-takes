@@ -2,3 +2,4 @@
 - Functions that are only called once are an anti-pattern
 - Function coloring is Good, Actually
 - The hot/cold observable dichotomy is bullshit. *Event streams* may be hot (global) or not, but an observable doesn't do anything but describe what happens when you initiate a subscription.
+- Garbage collection refers to any form of automated memory management, included reference counting and RAII. The common Garbage collection first implemented by Lisp and popularized by Java, Python, etc is Tracing Garbace Collection.
