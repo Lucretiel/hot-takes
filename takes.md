@@ -5,3 +5,4 @@
 - Garbage collection refers to any form of automated memory management, included reference counting and RAII. The common Garbage collection first implemented by Lisp and popularized by Java, Python, etc is Tracing Garbace Collection.
 - Java is the Space Shuttle of programming languages
 - While it's true that Rust is not a great first programming language, the problem isn't its complexity or novelty. Instead, it's simply because all the introductory material is written for someone who's already very comfortable with programming.
+- A lot of the C++ implicit behaviors that it catches a lot of flak for are actually wonderful for preserving backwards compatibility and show their worth in old (10+ year) codebases
