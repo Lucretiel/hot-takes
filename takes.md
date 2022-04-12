@@ -6,3 +6,4 @@
 - Java is the Space Shuttle of programming languages
 - While it's true that Rust is not a great first programming language, the problem isn't its complexity or novelty. Instead, it's simply because all the introductory material is written for someone who's already very comfortable with programming.
 - A lot of the C++ implicit behaviors that it catches a lot of flak for are actually wonderful for preserving backwards compatibility and show their worth in old (10+ year) codebases
+- There is no meaningful difference between a minor and patch level version in semver.
